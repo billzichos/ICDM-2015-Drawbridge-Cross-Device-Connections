@@ -41,3 +41,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#BZ Custom
+.Rhistory
+cookie_all_basic.csv
+database.sqlite.zip
+dev_test_basic.csv
+dev_train_basic.csv
+id_all_property.csv
+ipagg_all.csv
+property_category.csv
+sampleSubmission.csv
